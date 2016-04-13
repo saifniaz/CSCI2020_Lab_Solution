@@ -1,0 +1,157 @@
+HC  ID,Description,Location/Emplacement,Weight/Poids (g),Measurement date/Date de la mesure,Method/Méthode,Counting time/temps de mesure  (h),Cs-137 (Bq/kg),Cs-137 Uncertainty / Incertitude (Bq/kg),Cs-137 MDC(Bq/kg),Cs-134 (Bq/kg),Cs-134 Uncertainty /Incertitude (Bq/kg),Cs-134 MDC (Bq/kg),K-40 (Bq/kg),K-40 Uncertainty / Incertitude (Bq/kg),K-40 MDC (Bq/kg),Po-210 (Bq/Kg),Po-210 Uncertainty /Incertitude (Bq/kg),Po-210 MDC (Bq/kg)
+32202,Sockeye,Nass River B.C.,146.6,Nov 09 2015,Gamma Spectroscopy/spectroscopie gamma,6,0,­,1.26,0,­,1.23,123.79,18.11,20.4,0,,0.2
+32210,Sockeye,Nass River B.C.,162.2,Nov 09 2015,Gamma Spectroscopy/spectroscopie gamma,6,0,­,1.06,0,­,1.07,126.66,17.25,18.9,0,,0.2
+32211,Sockeye,Nass River B.C.,143.3,Nov 09 2015,Gamma Spectroscopy/spectroscopie gamma,6,0,­,1.29,0,­,1.3,129.85,17.98,19,0.5,0.2,0.2
+32216,Sockeye,Nass River B.C.,145.9,Nov 10 2015,Gamma Spectroscopy/spectroscopie gamma,6,0,­,1.28,0,­,1.23,106.72,18.62,23.4,0.5,0.2,0.2
+32217,Sockeye,Nass River B.C.,142,Nov 10 2015,Gamma Spectroscopy/spectroscopie gamma,6,0,­,1.34,0,­,1.38,104.48,18.33,22.7,0.5,0.2,0.2
+32218,Sockeye,Nass River B.C.,146.3,Nov 10 2015,Gamma Spectroscopy/spectroscopie gamma,6,0,­,1.22,0,­,1.23,120.37,18.69,22.1,0.5,0.2,0.2
+32219,Sockeye,Nass River B.C.,149.6,Nov 10 2015,Gamma Spectroscopy/spectroscopie gamma,6,0,­,1.31,0,­,1.22,142.44,18.4,19,0.7,0.2,0.2
+32282,Sockeye,Nass River B.C.,136.2,Nov 16 2015,Gamma Spectroscopy/spectroscopie gamma,6,0,­,1.35,0,­,1.29,124.92,20.49,25.2,0,,0.2
+32283,Sockeye,Nass River B.C.,149.8,Nov 16 2015,Gamma Spectroscopy/spectroscopie gamma,6,0,­,1.19,0,­,1.19,123.75,17.11,18,0.7,0.2,0.2
+32284,Sockeye,Nass River B.C.,158.2,Nov 16 2015,Gamma Spectroscopy/spectroscopie gamma,6,0,­,1.13,0,­,1.12,127.66,17.95,20.2,0,,0.2
+32220,Steelhead,Nass River B.C.,156.7,Nov 11 2015,Gamma Spectroscopy/spectroscopie gamma,6,0,­,1.23,0,­,1.21,105.43,15.54,16.7,0.9,0.2,0.2
+32221,Steelhead,Nass River B.C.,147.9,Nov 11 2015,Gamma Spectroscopy/spectroscopie gamma,6,0,­,1.27,0,­,1.25,111.37,18.21,22.1,0,,0.2
+32222,Steelhead,Nass River B.C.,148.8,Nov 11 2015,Gamma Spectroscopy/spectroscopie gamma,6,0.55,0.22,0.75,0,­,1.23,126.96,17.99,19.8,0.9,0.2,0.2
+32223,Steelhead,Nass River B.C.,151.4,Nov 12 2015,Gamma Spectroscopy/spectroscopie gamma,6,0,­,1.16,0,­,1.27,131.04,16.64,15.7,0.9,0.2,0.2
+32224,Steelhead,Nass River B.C.,155,Nov 12 2015,Gamma Spectroscopy/spectroscopie gamma,6,0,­,1.14,0,­,1.24,131.09,18.07,19.9,0,,0.2
+32225,Steelhead,Nass River B.C.,143.1,Nov 13 2015,Gamma Spectroscopy/spectroscopie gamma,6,0,­,1.33,0,­,1.35,119.26,19.7,24.4,0.9,0.2,0.2
+32281,Steelhead,Nass River B.C.,151.9,Nov 17 2015,Gamma Spectroscopy/spectroscopie gamma,6,0,­,1.27,0,­,1.26,142.55,18.14,18.4,0.7,0.2,0.2
+32285,Steelhead,Nass River B.C.,154.9,Nov 17 2015,Gamma Spectroscopy/spectroscopie gamma,6,0.27,0.2,0.69,0,­,1.11,105.87,17.26,20.8,0.7,0.2,0.2
+32286,Steelhead,Nass River B.C.,162.1,Nov 17 2015,Gamma Spectroscopy/spectroscopie gamma,6,0,­,1.13,0,­,1.1,122.97,16.98,18.6,0.9,0.2,0.2
+32287,Steelhead,Nass River B.C.,160,Nov 17 2015,Gamma Spectroscopy/spectroscopie gamma,6,0,­,1.21,0,­,1.16,127.73,16.96,17.8,0.9,0.2,0.2
+32280,Pink,Nass River B.C.,154.2,Nov 18 2015,Gamma Spectroscopy/spectroscopie gamma,6,0,­,1.15,0,­,1.09,114.32,16.8,18.7,0.7,0.2,0.2
+32288,Pink,Nass River B.C.,120.4,Nov 18 2015,Gamma Spectroscopy/spectroscopie gamma,6,0,­,1.58,0,­,1.51,143.53,22.29,26.2,0,,0.2
+32289,Pink,Nass River B.C.,153.2,Nov 18 2015,Gamma Spectroscopy/spectroscopie gamma,6,0,­,1.19,0,­,1.23,111.64,18.8,23.7,0,,0.2
+32290,Pink,Nass River B.C.,141.6,Nov 19 2015,Gamma Spectroscopy/spectroscopie gamma,6,0,­,1.47,0,­,1.27,119.58,18.99,22.6,0,,0.2
+32291,Pink,Nass River B.C.,103.3,Nov 19 2015,Gamma Spectroscopy/spectroscopie gamma,6,0,­,1.95,0,­,1.81,135.31,27.32,36.7,0.5,0.2,0.2
+32292,Pink,Nass River B.C.,130.3,Nov 19 2015,Gamma Spectroscopy/spectroscopie gamma,6,0,­,1.39,0,­,1.31,120.79,22.14,28.9,0,,0.3
+32293,Pink,Nass River B.C.,146.3,Nov 19 2015,Gamma Spectroscopy/spectroscopie gamma,6,0,­,1.28,0,­,1.16,128.62,18.36,20.4,0.7,0.2,0.2
+32294,Pink,Nass River B.C.,144.1,Nov 20 2015,Gamma Spectroscopy/spectroscopie gamma,6,0,­,1.34,0,­,1.33,140.85,20.02,23,0.9,0.2,0.2
+32295,Pink,Nass River B.C.,143.8,Nov 23 2015,Gamma Spectroscopy/spectroscopie gamma,6,0,­,1.3,0,­,1.27,117.03,19.13,23.4,0,,0.2
+32296,Pink,Nass River B.C.,162.2,Nov 23 2015,Gamma Spectroscopy/spectroscopie gamma,6,0,­,1.1,0,­,1.15,109.86,17.67,21.7,0.5,0.2,0.2
+32432,Sockeye,Johnston Strait B.C.,108.6,Nov 23 2015,Gamma Spectroscopy/spectroscopie gamma,6,0,­,1.64,0,­,1.73,154.91,22.82,24.8,0.4,0.2,0.2
+32433,Sockeye,Johnston Strait B.C.,111.7,Nov 24 2015,Gamma Spectroscopy/spectroscopie gamma,6,0,­,1.53,0,­,1.66,148.9,22.22,24.4,0.4,0.2,0.2
+32431,Sockeye,Johnston Strait B.C.,101.3,Nov 24 2015,Gamma Spectroscopy/spectroscopie gamma,6,0,­,1.91,0,­,1.89,137.03,25.8,33.1,0.4,0.2,0.2
+32434,Sockeye,Johnston Strait B.C.,108.4,Nov 24 2015,Gamma Spectroscopy/spectroscopie gamma,6,0,­,1.72,0,­,1.59,153.77,23.62,27,0.4,0.2,0.2
+32435,Sockeye,Johnston Strait B.C.,103.1,Nov 25 2015,Gamma Spectroscopy/spectroscopie gamma,6,0,­,1.83,0,­,1.83,157.18,24.21,27.3,0.4,0.2,0.2
+32436,Sockeye,Johnston Strait B.C.,135.5,Nov 25 2015,Gamma Spectroscopy/spectroscopie gamma,6,0,­,1.26,0,­,1.38,123.13,19.54,23.1,0.4,0.2,0.2
+32437,Sockeye,Johnston Strait B.C.,126.4,Nov 25 2015,Gamma Spectroscopy/spectroscopie gamma,6,0,­,1.38,0,­,1.37,121.2,20.77,25.6,0.4,0.2,0.2
+32438,Sockeye,Johnston Strait B.C.,100.6,Nov 26 2015,Gamma Spectroscopy/spectroscopie gamma,6,0,­,1.8,0,­,1.84,146.97,25.37,31,0.4,0.2,0.2
+32439,Sockeye,Johnston Strait B.C.,122.3,Nov 26 2015,Gamma Spectroscopy/spectroscopie gamma,6,0,­,1.41,0,­,1.47,139.88,21.01,23.7,0.4,0.2,0.2
+32440,Sockeye,Johnston Strait B.C.,121.5,Nov 26 2015,Gamma Spectroscopy/spectroscopie gamma,6,0,­,1.46,0,­,1.55,134.07,21.53,25.5,0.4,0.2,0.2
+32441,Pink,Johnston Strait B.C.,136.3,Nov 26 2015,Gamma Spectroscopy/spectroscopie gamma,6,0,­,1.37,0,­,1.36,148.39,22.63,27.8,0,,0.2
+32242,Pink,Johnston Strait B.C.,106.7,Nov 27 2015,Gamma Spectroscopy/spectroscopie gamma,6,0,­,1.68,0,­,1.72,166.23,25.27,30.1,0,,0.2
+32443,Pink,Johnston Strait B.C.,130.3,Nov 27 2015,Gamma Spectroscopy/spectroscopie gamma,6,0,­,1.4,0,­,1.36,134.56,21.05,25.1,0,,0.2
+32444,Pink,Johnston Strait B.C.,130.8,Nov 30 2015,Gamma Spectroscopy/spectroscopie gamma,6,0,­,1.5,0,­,1.4,128.48,21.11,25.9,0,,0.2
+32445,Pink,Johnston Strait B.C.,124.3,Nov 30 2015,Gamma Spectroscopy/spectroscopie gamma,6,0,­,1.52,0,­,1.6,158.25,22.91,26.4,0,,0.2
+32446,Pink,Johnston Strait B.C.,125.6,Dec 01 2015,Gamma Spectroscopy/spectroscopie gamma,6,0,­,1.49,0,­,1.58,137.39,22.09,26.8,0,,0.2
+32447,Pink,Johnston Strait B.C.,141.3,Dec 01 2015,Gamma Spectroscopy/spectroscopie gamma,6,0,­,1.27,0,­,1.35,148.98,19.94,21.6,0,,0.2
+32448,Pink,Johnston Strait B.C.,144.9,Dec 01 2015,Gamma Spectroscopy/spectroscopie gamma,6,0,­,1.27,0,­,1.26,117.61,18.82,22.6,0,,0.2
+32449,Pink,Johnston Strait B.C.,147.9,Dec 01 2015,Gamma Spectroscopy/spectroscopie gamma,6,0,­,1.36,0,­,1.22,115.7,18.94,23.3,0,,0.2
+32450,Pink,Johnston Strait B.C.,163,Dec 02 2015,Gamma Spectroscopy/spectroscopie gamma,6,0,­,1.14,0,­,1.15,141.39,18.36,20,0,,0.2
+32405,Sockeye,Great Central Lake B.C.,134.1,Dec 02 2015,Gamma Spectroscopy/spectroscopie gamma,6,0,­,1.45,0,­,1.48,145.21,20.05,21.7,0,,0.2
+32406,Sockeye,Great Central Lake B.C.,127,Dec 02 2015,Gamma Spectroscopy/spectroscopie gamma,6,0,­,1.46,0,­,1.58,137.2,21.19,24.9,1,0.2,0.2
+32407,Sockeye,Great Central Lake B.C.,134.9,Dec 02 2015,Gamma Spectroscopy/spectroscopie gamma,6,0,­,1.41,0,­,1.48,139.13,20.18,22.8,0,,0.2
+32408,Sockeye,Great Central Lake B.C.,132.8,Dec 03 2015,Gamma Spectroscopy/spectroscopie gamma,6,0,­,1.41,0,­,1.44,144.78,19.7,20.7,1.3,0.3,0.2
+32409,Sockeye,Great Central Lake B.C.,142.3,Dec 03 2015,Gamma Spectroscopy/spectroscopie gamma,6,0,­,1.32,0,­,1.41,141.54,19.84,22.3,0,,0.2
+32410,Sockeye,Great Central Lake B.C.,135.7,Dec 03 2015,Gamma Spectroscopy/spectroscopie gamma,6,0,­,1.41,0,­,1.49,139.57,21.81,26.7,0.8,0.2,0.2
+32411,Sockeye,Great Central Lake B.C.,148.6,Dec 03 2015,Gamma Spectroscopy/spectroscopie gamma,6,0,­,1.22,0,­,1.19,113,18.52,22.7,0,,0.2
+32412,Sockeye,Great Central Lake B.C.,121.2,Dec 07 2015,Gamma Spectroscopy/spectroscopie gamma,6,0,­,1.53,0,­,1.63,131.68,22.41,27.8,1,0.2,0.2
+32413,Sockeye,Great Central Lake B.C.,148.1,Dec 07 2015,Gamma Spectroscopy/spectroscopie gamma,6,0,­,0.77,0,­,0.81,124.4,18.27,20.8,0,,0.2
+32414,Sockeye,Great Central Lake B.C.,132.9,Dec 07 2015,Gamma Spectroscopy/spectroscopie gamma,6,0,­,1.47,0,­,1.59,143.83,20.76,23.5,0.5,0.2,0.2
+32503,Sockeye,Nimkish B.C.,121.4,Dec 08 2015,Gamma Spectroscopy/spectroscopie gamma,6,0,­,1.56,0,­,1.59,158.09,22.41,24.9,0.5,0.2,0.2
+32504,Sockeye,Nimkish B.C.,128.2,Dec 08 2015,Gamma Spectroscopy/spectroscopie gamma,6,0,­,1.52,0,­,1.53,135.58,19.29,20.3,0.5,0.2,0.2
+32505,Sockeye,Nimkish B.C.,135.3,Dec 08 2015,Gamma Spectroscopy/spectroscopie gamma,6,0,­,1.3,0,­,1.36,129.78,18.53,19.8,1.9,0.4,0.2
+32506,Sockeye,Nimkish B.C.,127.2,Dec 08 2015,Gamma Spectroscopy/spectroscopie gamma,6,0,­,1.52,0,­,1.45,132.97,21.3,25.6,1,0.2,0.2
+32507,Sockeye,Nimkish B.C.,125.2,Dec 09 2015,Gamma Spectroscopy/spectroscopie gamma,6,0,­,1.48,0,­,1.64,152.16,21.3,23.2,1,0.4,0.4
+32508,Sockeye,Nimkish B.C.,143.8,Dec 09 2015,Gamma Spectroscopy/spectroscopie gamma,6,0,­,1.33,0,­,1.32,116.4,17.51,19.5,0.5,0.2,0.2
+32509,Sockeye,Nimkish B.C.,147.4,Dec 09 2015,Gamma Spectroscopy/spectroscopie gamma,6,0,­,1.32,0,­,1.35,103.18,20.03,26.8,0.7,0.2,0.2
+32510,Sockeye,Nimkish B.C.,146.2,Dec 09 2015,Gamma Spectroscopy/spectroscopie gamma,6,0,­,1.24,0,­,1.29,121.42,18.15,20.7,0.4,0.2,0.2
+32511,Sockeye,Nimkish B.C.,162.5,Dec 10 2015,Gamma Spectroscopy/spectroscopie gamma,6,0,­,1.21,0,­,1.2,125.18,16.67,17.5,0,,0.2
+32512,Sockeye,Nimkish B.C.,156.2,Dec 10 2015,Gamma Spectroscopy/spectroscopie gamma,6,0,­,1.24,0,­,1.28,112.48,19.01,24.2,0.6,0.2,0.2
+32513,Sockeye,Nimkish B.C.,158.8,Dec 10 2015,Gamma Spectroscopy/spectroscopie gamma,6,0,­,1.15,0,­,1.22,144.9,17.88,18,0,,0.2
+32395,Sockeye,Stikine River B.C.,150.5,Dec 10 2015,Gamma Spectroscopy/spectroscopie gamma,6,0,­,1.26,0,­,1.3,129.75,19.36,23,0,,0.2
+32396,Sockeye,Stikine River B.C.,150.9,Dec 11 2015,Gamma Spectroscopy/spectroscopie gamma,6,0,­,1.2,0,­,1.28,123.79,16.8,17.2,0,,0.2
+32397,Sockeye,Stikine River B.C.,153.7,Dec 15 2015,Gamma Spectroscopy/spectroscopie gamma,6,0,­,1.2,0,­,1.24,123.84,16.22,15.8,0.7,0.2,0.2
+32398,Sockeye,Stikine River B.C.,152,Dec 15 2015,Gamma Spectroscopy/spectroscopie gamma,6,0,­,1.23,0,­,1.27,144.06,17.3,15.7,0.5,0.2,0.2
+32399,Sockeye,Stikine River B.C.,147.3,Dec 15 2015,Gamma Spectroscopy/spectroscopie gamma,6,0,­,1.27,0,­,1.26,128.84,18.7,21.3,0,,0.2
+32400,Sockeye,Stikine River B.C.,144.8,Dec 16 2015,Gamma Spectroscopy/spectroscopie gamma,6,0,­,1.25,0,­,1.3,106.45,19.32,24.9,0,,0.2
+32401,Sockeye,Stikine River B.C.,151.2,Dec 16 2015,Gamma Spectroscopy/spectroscopie gamma,6,0,­,1.23,0,­,1.29,112.6,16.54,18,0,,0.2
+32402,Sockeye,Stikine River B.C.,153.6,Dec 16 2015,Gamma Spectroscopy/spectroscopie gamma,6,0,­,1.28,0,­,1.24,113.35,17.09,19.5,0,,0.2
+32403,Sockeye,Stikine River B.C.,152.2,Dec 16 2015,Gamma Spectroscopy/spectroscopie gamma,6,0,­,1.24,0,­,1.19,133.55,17.4,17.6,0,,0.2
+32404,Sockeye,Stikine River B.C.,159,Dec 17 2015,Gamma Spectroscopy/spectroscopie gamma,6,0,­,1.16,0,­,1.19,96.77,17.86,23.3,0,,0.2
+32526,Sockeye,Okanagan River B.C.,140.2,Dec 21 2015,Gamma Spectroscopy/spectroscopie gamma,6,0.6,0.23,0.9,0,­,1.4,113.77,19.13,23.5,0,,0.2
+32527,Sockeye,Okanagan River B.C.,140,Dec 22 2015,Gamma Spectroscopy/spectroscopie gamma,6,0.47,0.22,0.8,0,­,1.46,96.99,19.79,26.6,0.8,0.2,0.2
+32528,Sockeye,Okanagan River B.C.,126.9,Dec 22 2015,Gamma Spectroscopy/spectroscopie gamma,6,0,­,1.59,0,­,1.56,121.23,20.81,25.7,0,,0.2
+32529,Sockeye,Okanagan River B.C.,150.9,Dec 22 2015,Gamma Spectroscopy/spectroscopie gamma,6,0,­,1.28,0,­,1.23,128.94,18.27,20.4,0,,0.2
+32530,Sockeye,Okanagan River B.C.,162,Dec 23 2015,Gamma Spectroscopy/spectroscopie gamma,6,0,­,1.22,0,­,1.22,116.09,17.62,21,0,,0.2
+32531,Sockeye,Okanagan River B.C.,146.9,Dec 23 2015,Gamma Spectroscopy/spectroscopie gamma,6,0,­,1.33,0,­,1.3,120.86,18.9,22.6,1.7,0.3,0.2
+32532,Sockeye,Okanagan River B.C.,142.3,Dec 23 2015,Gamma Spectroscopy/spectroscopie gamma,6,0,­,1.36,0,­,1.4,138.41,18.04,17.9,0,,0.2
+32553,Sockeye,Okanagan River B.C.,147.3,Dec 23 2015,Gamma Spectroscopy/spectroscopie gamma,6,0,­,1.34,0,­,1.35,116.61,18.65,22.5,0.6,0.2,0.2
+32554,Sockeye,Okanagan River B.C.,159.6,Dec 24 2015,Gamma Spectroscopy/spectroscopie gamma,6,0,­,1.25,0,­,1.2,105.66,15.79,17.5,1.4,0.3,0.2
+32555,Sockeye,Okanagan River B.C.,139.8,Jan 04 2016,Gamma Spectroscopy/spectroscopie gamma,6,0,­,1.39,0,­,1.38,104.52,17.63,21,1.1,0.2,0.2
+32305,Sockeye,Alsek River B.C.,142.7,Jan 04 2015,Gamma Spectroscopy/spectroscopie gamma,6,0,­,1.29,0,­,1.39,120.02,19.49,23.8,0,,0.2
+32306,Sockeye,Alsek River B.C.,150.2,Jan 04 2015,Gamma Spectroscopy/spectroscopie gamma,6,0.58,0.2,0.7,0,­,1.31,129.34,18.21,20.2,0,,0.2
+32307,Sockeye,Alsek River B.C.,151,Jan 05 2015,Gamma Spectroscopy/spectroscopie gamma,6,0,­,1.2,0,­,1.28,119.89,17.56,19.7,0,,0.2
+32308,Sockeye,Alsek River B.C.,152.6,Jan 05 2015,Gamma Spectroscopy/spectroscopie gamma,6,0,­,1.13,0,­,1.34,106.43,17.78,21.9,0,,0.2
+32309,Sockeye,Alsek River B.C.,155.1,Jan 05 2015,Gamma Spectroscopy/spectroscopie gamma,6,0,­,1.14,0,­,1.18,125.29,17.19,18.4,0,,0.2
+32310,Sockeye,Alsek River B.C.,150.9,Jan 06 2015,Gamma Spectroscopy/spectroscopie gamma,6,0,­,1.13,0,­,1.18,122.46,16.3,16,0,,0.2
+32311,Sockeye,Alsek River B.C.,152.3,Jan 06 2015,Gamma Spectroscopy/spectroscopie gamma,6,0,­,1.22,0,­,1.2,125.64,14.99,11.6,0.4,0.2,0.2
+32312,Sockeye,Alsek River B.C.,152.9,Jan 06 2015,Gamma Spectroscopy/spectroscopie gamma,6,0,­,1.22,0,­,1.25,108.3,16.31,18.1,0,,0.2
+32313,Sockeye,Alsek River B.C.,161.2,Jan 07 2015,Gamma Spectroscopy/spectroscopie gamma,6,0,­,1.12,0,­,1.15,111.42,16.62,19,0,,0.2
+32314,Sockeye,Alsek River B.C.,151.9,Jan 07 2015,Gamma Spectroscopy/spectroscopie gamma,6,0,­,1.2,0,­,1.25,122.99,17.49,19.2,0,,0.2
+32298,Sockeye,Sproat Lake B.C.,111.5,Jan 07 2016,Gamma Spectroscopy/spectroscopie gamma,6,0,­,1.69,0,­,1.78,136,21.05,23.1,1,0.2,0.2
+32299,Sockeye,Sproat Lake B.C.,136.2,Jan 07 2016,Gamma Spectroscopy/spectroscopie gamma,6,0,­,1.38,0,­,1.51,133.9,18.61,19.5,2.1,0.4,0.2
+32208,Sockeye,Sproat Lake B.C.,128.2,Jan 08 2016,Gamma Spectroscopy/spectroscopie gamma,6,0,­,1.48,0,­,1.52,143.61,19.36,19.4,2.3,0.4,0.2
+32300,Sockeye,Sproat Lake B.C.,121.7,Jan 08 2016,Gamma Spectroscopy/spectroscopie gamma,6,0,­,1.52,0,­,1.69,158.58,21.54,22.6,0,,0.2
+32301,Sockeye,Sproat Lake B.C.,125.5,Jan 08 2016,Gamma Spectroscopy/spectroscopie gamma,6,0,­,1.52,0,­,1.57,130.49,20.46,23.7,1.3,0.3,0.2
+32297,Sockeye,Sproat Lake B.C.,135.2,Jan 11 2016,Gamma Spectroscopy/spectroscopie gamma,6,0,­,1.38,0,­,1.41,123.62,21.09,26.6,1,0.3,0.2
+32302,Sockeye,Sproat Lake B.C.,132.3,Jan 11 2016,Gamma Spectroscopy/spectroscopie gamma,6,0,­,1.47,0,­,1.5,159.31,20.7,21.4,1.3,0.3,0.2
+32209,Sockeye,Sproat Lake B.C.,137.6,Jan 11 2016,Gamma Spectroscopy/spectroscopie gamma,6,0,­,1.41,0,­,1.45,136,20.23,23.5,0,,0.2
+32303,Sockeye,Sproat Lake B.C.,131.1,Jan 12 2016,Gamma Spectroscopy/spectroscopie gamma,6,0,­,1.45,0,­,1.61,146.02,21.26,24.4,0.8,0.2,0.2
+32304,Sockeye,Sproat Lake B.C.,126.4,Jan 12 2016,Gamma Spectroscopy/spectroscopie gamma,6,0,­,1.5,0,­,1.53,144.06,22.9,28.1,0,,0.2
+32514,Sockeye,Rivers Inlet B.C.,107.4,Jan 12 2016,Gamma Spectrometry,6,0,­,1.82,0,­,1.77,126.93,24.42,31.6,0,,0.2
+32515,Sockeye,Rivers Inlet B.C.,137.6,Jan 12 2016,Gamma Spectrometry,6,0,­,1.42,0,­,1.4,130.93,19.32,21.9,0,,0.2
+32516,Sockeye,Rivers Inlet B.C.,144.1,Jan 13 2016,Gamma Spectrometry,6,0,­,1.36,0,­,1.38,116.17,18.94,23,0,,0.2
+32517,Sockeye,Rivers Inlet B.C.,143.3,Jan 13 2016,Gamma Spectrometry,6,0,­,1.3,0,­,1.4,120.52,17.79,19.7,0,,0.2
+32518,Sockeye,Rivers Inlet B.C.,139.9,Jan 13 2016,Gamma Spectrometry,6,0,­,1.4,0,­,1.43,128.3,17.89,18.6,0,,0.2
+32519,Sockeye,Rivers Inlet B.C.,140.4,Jan 13 2016,Gamma Spectrometry,6,0,­,1.33,0,­,1.42,131.81,19.68,22.8,0,,0.2
+32520,Sockeye,Rivers Inlet B.C.,128.9,Jan 14 2016,Gamma Spectrometry,6,0,­,1.52,0,­,1.58,141.91,18.51,17.2,1,0.2,0.2
+32521,Sockeye,Rivers Inlet B.C.,141.6,Jan 14 2016,Gamma Spectrometry,6,0,­,1.41,0,­,1.42,117.79,18.68,22.1,0,,0.2
+32522,Sockeye,Rivers Inlet B.C.,87.9,Jan 14 2016,Gamma Spectrometry,6,0,­,2,0,­,2.38,147.47,25.82,30.4,1,0.2,0.2
+32523,Sockeye,Rivers Inlet B.C.,151.6,Jan 14 2016,Gamma Spectrometry,6,0,­,1.22,0,­,1.33,108.18,18.8,23.9,0,,0.2
+32524,Sockeye,Rivers Inlet B.C.,151.7,Jan 15 2016,Gamma Spectrometry,6,0,­,1.22,0,­,1.36,115.62,17.26,19.5,0,,0.2
+32525,Sockeye,Rivers Inlet B.C.,85.32,Jan 15 2016,Gamma Spectrometry,6,0,­,2.3,0,­,2.22,139.22,25.87,31.1,0,,0.2
+32322,Chinook,Pelly River B.C.,147.7,Dec 17 2015,Gamma Spectrometry,6,0,­,1.33,0,­,1.34,101.83,17.18,20.7,0,,0.2
+32323,Chinook,Pelly River B.C.,151.3,Dec 17 2015,Gamma Spectrometry,6,0,­,1.3,0,­,1.32,110.13,16.97,19.4,0,,0.2
+32324,Chinook,Pelly River B.C.,169.8,Dec 17 2015,Gamma Spectrometry,6,0,­,1.11,0,­,1.13,98.31,16.64,20.9,0,,0.2
+32556,Chinook,Yukon River B.C.,133,Jan 20 2016,Gamma Spectrometry,6,0,­,1.39,0,­,1.4,146.03,20.44,22.5,2.1,0.5,0.2
+32557,Chinook,Yukon River B.C.,156.1,Jan 20 2016,Gamma Spectrometry,6,0,­,1.2,0,­,1.19,127.09,16.38,16,0,,0.2
+32558,Chinook,Yukon River B.C.,137.3,Jan 20 2016,Gamma Spectrometry,6,0,­,1.3,0,­,1.35,81.92,18.23,24.6,1.6,0.4,0.2
+32559,Chinook,Yukon River B.C.,112.4,Jan 20 2016,Gamma Spectrometry,6,0,­,1.7,0,­,1.7,129.81,21.28,24.6,2.1,0.5,0.2
+32560,Chinook,Yukon River B.C.,112.4,Jan 21 2016,Gamma Spectrometry,6,0,­,1.64,0,­,1.65,125.38,22.95,29,1,0.3,0.2
+32561,Chinook,Yukon River B.C.,70.19,Jan 21 2016,Gamma Spectrometry,6,0,­,1.36,0,­,2.7,121.11,28.93,37.9,4.7,1,0.3
+32562,Chinook,Yukon River B.C.,97.95,Jan 21 2016,Gamma Spectrometry,6,0,­,1.88,0,­,1.9,136.37,22.52,25.1,1.6,0.4,0.2
+32563,Chinook,Yukon River B.C.,124.1,Jan 21 2016,Gamma Spectrometry,6,0,­,1.46,0,­,1.5,107.53,19.61,24.2,0.9,0.3,0.2
+32564,Chinook,Yukon River B.C.,116.3,Jan 22 2016,Gamma Spectrometry,6,0.53,0.23,0.75,0,­,1.62,134.13,20.57,22.7,1.7,0.4,0.2
+32565,Chinook,Yukon River B.C.,150.1,Jan 22 2016,Gamma Spectrometry,6,0,­,1.28,0,­,1.29,115.82,17.55,20.1,0.9,0.3,0.2
+32315,Chinook,Yukon River B.C.,156.6,Jan 18 2016,Gamma Spectrometry,6,0,­,1.19,0,­,1.27,79.09,14.57,17.7,0,,0.2
+32316,Chinook,Yukon River B.C.,152,Jan 18 2016,Gamma Spectrometry,6,0.58,0.23,0.81,0,­,1.3,91.46,16.56,20.6,0,,0.2
+32317,Chinook,Yukon River B.C.,156.3,Jan 18 2016,Gamma Spectrometry,6,0,­,1.27,0,­,1.22,96.51,15.9,18.7,0,,0.2
+32318,Chinook,Yukon River B.C.,154.5,Jan 19 2016,Gamma Spectrometry,6,0,­,1.27,0,­,1.17,118.05,16.69,18,0,,0.2
+32319,Chinook,Yukon River B.C.,151.7,Jan 19 2016,Gamma Spectrometry,6,0,­,1.28,0,­,1.29,120.62,19.56,24.4,0,,0.2
+32320,Chinook,Yukon River B.C.,152.1,Jan 19 2016,Gamma Spectrometry,6,0,­,1.25,0,­,1.23,126.22,16.98,17.5,0,,0.3
+32321,Chinook,Yukon River B.C.,155.9,Jan 19 2016,Gamma Spectrometry,6,0,­,1.2,0,­,1.25,115.57,16.27,17.3,0,,0.2
+33076,Chinook,Moricetown B.C.,160.4,Jan 25 2016,gamma spectrometry,6,0,­,1.1,0,­,1.18,144.11,16.17,12.9,0,­,­
+33077,Chinook,Moricetown B.C.,154.8,Jan 25 2016,gamma spectrometry,6,0,­,1.24,0,­,1.29,129.2,17.11,17.6,0,­,­
+33078,Chinook,Fort Babine B.C.,106,Jan 25 2016,gamma spectrometry,6,0,­,1.82,0,­,1.9,108.73,24.3,33,0,­,­
+32201,Sockeye,Taku River B.C.,151.7,Jan 26 2016,gamma spectrometry,6,0,­,1.27,0,­,1.32,122.39,16.75,17.3,0.4,0.2,0.2
+32212,Sockeye,Taku River B.C.,150.4,Jan 26 2016,gamma spectrometry,6,0,­,1.28,0,­,1.24,97.21,16.28,19.2,0.4,0.2,0.2
+32205,Sockeye,Taku River B.C.,153.3,Jan 26 2016,gamma spectrometry,6,0,­,1.24,0,­,1.27,103.57,17.69,20,0.4,0.2,0.2
+32206,Sockeye,Taku River B.C.,155.2,Jan 26 2016,gamma spectrometry,6,0,­,1.26,0,­,1.17,119.88,16.5,17.2,0.4,0.2,0.2
+32214,Sockeye,Taku River B.C.,153.5,Jan 27 2016,gamma spectrometry,6,0,­,1.21,0,­,1.26,112.08,15.9,16.6,0.4,0.2,0.2
+32204,Sockeye,Taku River B.C.,155.7,Jan 27 2016,gamma spectrometry,6,0,­,1.19,0,­,1.21,99.76,18.06,23.3,0.4,0.2,0.2
+32203,Sockeye,Taku River B.C.,156.4,Jan 27 2016,gamma spectrometry,6,0,­,1.2,0,­,1.22,99.1,16.35,19.5,0.4,0.2,0.2
+32213,Sockeye,Taku River B.C.,150.6,Jan 27 2016,gamma spectrometry,6,0,­,1.15,0,­,1.3,104.51,16.53,19,0.4,0.2,0.2
+32207,Sockeye,Taku River B.C.,152.6,Jan 28 2016,gamma spectrometry,6,0,­,1.24,0,­,1.3,109.34,17.47,20.8,0.4,0.2,0.2
+32215,Sockeye,Taku River B.C.,152.8,Jan 28 2016,gamma spectrometry,6,0,­,1.23,0,­,1.31,102.51,16.1,18.3,0.4,0.2,0.2
